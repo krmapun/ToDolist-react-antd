@@ -1,4 +1,10 @@
-A ToDo List without Redux.
+A ToDo List 
+
+## Available Scripts
+
+Install all dependences:
+
+### `npm install`
 
 ## Available Scripts
 
