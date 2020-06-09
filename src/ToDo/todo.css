@@ -1,0 +1,25 @@
+.todo {
+  max-width: 50%;
+}
+
+.col {
+  margin: 20px 0px;
+}
+.Input{
+  width: 85%;
+  margin: 0 15px 0 0;
+}
+.ant-btn-primary:active, .ant-btn-primary.active {
+  color: #fff;
+  background-color: #b718ff;
+  border-color: #b718ff;
+}
+.ant-btn-primary {
+  color: #fff;
+  background-color: #b718ff;
+}
+.ant-btn:hover, .ant-btn:focus {
+  color: #fff;
+  background-color: #b718ff;
+  border-color: #b718ff;
+}
